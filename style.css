@@ -1,0 +1,30 @@
+body {
+    background-color: green;
+    background-size: cover;
+    padding: 40px;
+}
+
+#form {
+    background-color: blue;
+    width: 25%;
+    margin: 120px auto;
+    padding: 50px;
+    box-shadow: 20px 20px 10px rgb(red, green, blue);
+    border-radius: 7px;
+}
+
+#btn {
+    color: greenyellow;
+    background-color: blue;
+    padding: 8px;
+    font-size: large;
+    border-radius: 8px;
+
+}
+@media screen and (max-width:700px) {
+    #form{
+            width: 65%;
+            padding: 40px;
+    }
+    
+}

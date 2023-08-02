@@ -1,0 +1,18 @@
+body {
+    background-image: url("cleanenergy.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+}
+#form{
+background-color: blue;
+width: 25%;
+margin: 120px auto;
+padding: 50px;
+box-shadow: 10px 10px 5px rgb(red, green, blue);
+border-radius: 4px;
+}
+#btn{
+    color: greenyellow;
+    background-color: blue;
+}
